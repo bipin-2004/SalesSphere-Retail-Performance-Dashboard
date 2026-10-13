@@ -62,6 +62,17 @@ SalesSphere is an interactive Power BI dashboard developed to analyze e-commerce
 - Review unsuccessful order statuses to improve order processing.
 - Evaluate payment preferences and investigate payment failures where data is available.
 
+### Sales by Category
+
+- **Top-performing category:** Electronics generates the highest sales, followed by Sports.
+- **Revenue concentration:** Electronics and Sports together contribute approximately 62% of the sales shown across the five categories.
+- **Growth opportunity:** Clothing and Home & Kitchen generate comparatively lower sales than the leading categories.
+
+### Recommendations
+
+- **Protect leading categories:** Maintain product availability in Electronics and Sports and monitor their sales trends.
+- **Investigate lower-performing categories:** Review pricing, product assortment, customer demand, and promotional effectiveness in Clothing and Home & Kitchen.
+- **Improve marketing allocation:** Test targeted campaigns for lower-performing categories and measure their impact before increasing spending.
 ## 🗂️ Data Model
 
 - **Customers:** Customer details and locations.
